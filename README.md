@@ -62,6 +62,7 @@ Pick values from the table above: for example Wan 3.0 Spicy accepts `480p`, `720
 - [muapi-comfyui](https://github.com/SamurAIGPT/muapi-comfyui): the node pack and example workflows used in this guide.
 - [wan-3.0-comfyui](https://github.com/Anil-matcha/wan-3.0-comfyui): focused ComfyUI nodes for Wan 3.0, including the spicy tier.
 - [seedance2.5-comfyui](https://github.com/Anil-matcha/seedance2.5-comfyui): focused ComfyUI nodes for Seedance 2.5, including spicy text and image to video.
+- [uncensored-ai-image-generator-comfyui](https://github.com/Anil-matcha/uncensored-ai-image-generator-comfyui): the image version of this guide.
 - [awesome-uncensored-ai-video-models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models): a community catalog of open, low-filter and community-reported AI video models.
 - [Muapi](https://muapi.ai): the API behind the nodes. See the [spicy video generator page](https://muapi.ai/ai-spicy-video-generator), [Seedance 2.5 Spicy](https://muapi.ai/seedance-2.5-spicy), [Wan Spicy](https://muapi.ai/wan-spicy), [MiniMax H3 Spicy](https://muapi.ai/minimax-h3-spicy), and the [ComfyUI docs](https://muapi.ai/docs/comfyui).
 
