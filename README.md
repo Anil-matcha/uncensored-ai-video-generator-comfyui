@@ -65,6 +65,7 @@ Pick values from the table above: for example Wan 3.0 Spicy accepts `480p`, `720
 - [uncensored-ai-image-generator-comfyui](https://github.com/Anil-matcha/uncensored-ai-image-generator-comfyui): the image version of this guide.
 - [awesome-uncensored-ai-video-models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models): a community catalog of open, low-filter and community-reported AI video models.
 - [Muapi](https://muapi.ai): the API behind the nodes. See the [spicy video generator page](https://muapi.ai/ai-spicy-video-generator), [Seedance 2.5 Spicy](https://muapi.ai/seedance-2.5-spicy), [Wan Spicy](https://muapi.ai/wan-spicy), [MiniMax H3 Spicy](https://muapi.ai/minimax-h3-spicy), and the [ComfyUI docs](https://muapi.ai/docs/comfyui).
+- [NSFW-AI-API](https://github.com/Anil-matcha/NSFW-AI-API) — NSFW detection and moderation for text and images, to screen prompts and outputs
 
 ## License
 
